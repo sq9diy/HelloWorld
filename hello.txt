@@ -1,1 +1,2 @@
 Hello wersja 1
+Teraz dodalem wiersz 2
