@@ -2,4 +2,5 @@ Hello wersja 1
 Teraz dodalem wiersz 2
 A teraz wiersz 3
 I jeszcze raz bledna zmiana
+a potem calkiem do dupy
 
